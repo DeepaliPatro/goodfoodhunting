@@ -1,0 +1,20 @@
+*{
+    /* border: 1px solid red; */
+    font-family: Arial, Helvetica, sans-serif
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+footer {
+    display: flex;
+    gap: 20px;
+}
+footer button, a{
+    font-size: 20px;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    padding-top: 5px;
+}
